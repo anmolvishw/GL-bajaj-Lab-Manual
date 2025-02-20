@@ -1,0 +1,360 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CountFlipBit",
+      "request": "launch",
+      "mainClass": "CountFlipBit",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "Divide",
+      "request": "launch",
+      "mainClass": "Divide",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "SqrtNo",
+      "request": "launch",
+      "mainClass": "SqrtNo",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "PowerofTwo",
+      "request": "launch",
+      "mainClass": "PowerofTwo",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "PowerOfTwo",
+      "request": "launch",
+      "mainClass": "BitManipulation.PowerOfTwo",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "PowerOf2",
+      "request": "launch",
+      "mainClass": "BitManipulation.PowerOf2",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "PowerOf2",
+      "request": "launch",
+      "mainClass": "BitManipulation.java.PowerOf2",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "DiamondValue",
+      "request": "launch",
+      "mainClass": "DiamondValue",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "Pattern19",
+      "request": "launch",
+      "mainClass": "Pattern19",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "LeftArrow",
+      "request": "launch",
+      "mainClass": "LeftArrow",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "RightArrow",
+      "request": "launch",
+      "mainClass": "RightArrow",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "HollowStar",
+      "request": "launch",
+      "mainClass": "HollowStar",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "HollowMirrorRight",
+      "request": "launch",
+      "mainClass": "HollowMirrorRight",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "pyramid",
+      "request": "launch",
+      "mainClass": "pyramid",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "OneZeroPattern",
+      "request": "launch",
+      "mainClass": "OneZeroPattern",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "RightStarTriangle",
+      "request": "launch",
+      "mainClass": "RightStarTriangle",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "SquareRoot",
+      "request": "launch",
+      "mainClass": "SquareRoot",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "ArithmeticProgression",
+      "request": "launch",
+      "mainClass": "ArithmeticProgression",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "HarmonicSeries",
+      "request": "launch",
+      "mainClass": "HarmonicSeries",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "NoGuessGame",
+      "request": "launch",
+      "mainClass": "NoGuessGame",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "DisplayEachDigit",
+      "request": "launch",
+      "mainClass": "DisplayEachDigit",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "HCF",
+      "request": "launch",
+      "mainClass": "HCF",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "power",
+      "request": "launch",
+      "mainClass": "power",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong",
+      "request": "launch",
+      "mainClass": "Armstrong",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "ReverseDigit",
+      "request": "launch",
+      "mainClass": "ReverseDigit",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "ReverseTable",
+      "request": "launch",
+      "mainClass": "ReverseTable",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNo",
+      "request": "launch",
+      "mainClass": "PrimeNo",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "fibonacciUsingRecurson",
+      "request": "launch",
+      "mainClass": "fibonacciUsingRecurson",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciSeries",
+      "request": "launch",
+      "mainClass": "FibonacciSeries",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "RingPrice",
+      "request": "launch",
+      "mainClass": "RingPrice",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "CurrencyNotes",
+      "request": "launch",
+      "mainClass": "CurrencyNotes",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "TelephoneBill",
+      "request": "launch",
+      "mainClass": "TelephoneBill",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "TaxPayable",
+      "request": "launch",
+      "mainClass": "TaxPayable",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "SwapNumbersBitwise",
+      "request": "launch",
+      "mainClass": "SwapNumbersBitwise",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "SwapNumbers",
+      "request": "launch",
+      "mainClass": "SwapNumbers",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "SimpleInterest",
+      "request": "launch",
+      "mainClass": "SimpleInterest",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "RootsOfQuadratic",
+      "request": "launch",
+      "mainClass": "RootsOfQuadratic",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "PowerOfTwoBitwise",
+      "request": "launch",
+      "mainClass": "PowerOfTwoBitwise",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "OddEvenBitwise",
+      "request": "launch",
+      "mainClass": "OddEvenBitwise",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "OddEven",
+      "request": "launch",
+      "mainClass": "OddEven",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "GreatestOfTwo",
+      "request": "launch",
+      "mainClass": "GreatestOfTwo",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "GreatestOfThree",
+      "request": "launch",
+      "mainClass": "GreatestOfThree",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsius",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelsius",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "CompoundInterest",
+      "request": "launch",
+      "mainClass": "CompoundInterest",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "ArithmeticOperation",
+      "request": "launch",
+      "mainClass": "ArithmeticOperation",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "AreaPerimeterCircle",
+      "request": "launch",
+      "mainClass": "AreaPerimeterCircle",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "AreaOfRectangle",
+      "request": "launch",
+      "mainClass": "AreaOfRectangle",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "type": "java",
+      "name": "AddTwoNumbers",
+      "request": "launch",
+      "mainClass": "AddTwoNumbers",
+      "projectName": "Lab Manual 2k24 GL Bajaj_c231a5aa"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

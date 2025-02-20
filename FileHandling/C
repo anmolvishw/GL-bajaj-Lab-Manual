@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+int main() {
+    FILE *sourceFile, *destFile;
+    char ch;
+    int charCount = 0;
+
+    // Open source file in read mode
+    sourceFile = fopen("a.txt", "r");
+    if (sourceFile == NULL) {
+        printf("Cannot open source file a.txt\n");
+        return 1;
+    }
+
+    // Open destination file in write mode
+    destFile = fopen("b.txt", "w");
+    if (destFile == NULL) {
+        printf("Cannot open destination file b.txt\n");
+        fclose(sourceFile);
+        return 1;
+    }
+
+    // Copy contents from source file to destination file and count characters
+    while ((ch = fgetc(sourceFile)) != EOF) {
+        fputc(ch, destFile);
+        charCount++;
+    }
+
+    // Close the files
+    fclose(sourceFile);
+    fclose(destFile);
+
+    // Print the character count
+    printf("Total characters copied: %d\n", charCount);
+
+    return 0;
+}
